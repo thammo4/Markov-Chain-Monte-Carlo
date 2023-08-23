@@ -1,4 +1,5 @@
 set.seed(451)
+
 #
 # Independence Chain Example
 #
